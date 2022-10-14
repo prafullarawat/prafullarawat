@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## 👋Hello there, I'm Prafulla Rawat 🙋‍♂️</h1>
 
 <h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap)  |  JavaScript  | VuesJs </h3>
