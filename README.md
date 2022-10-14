@@ -1,6 +1,6 @@
 ## 👋Hello there, I'm Prafulla Rawat 🙋‍♂️</h1>
 
-<h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap)  |  JavaScript  | VuesJs </h3>
+<h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,Bootstrap)  |  JavaScript  | VuesJs | ReactJs </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafullarawat&label=Profile%20views&color=0e75b6&style=flat" alt="prafullarawat" /> </p>
 
